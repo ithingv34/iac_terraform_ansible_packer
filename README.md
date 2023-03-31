@@ -1,9 +1,10 @@
-# Iac
+# InfraProvisioning as Code 
 
-## Terraform
+- IAC 실습 및 개념 정리 저장소
 
+## [Terraform]()
 
-[1.테라폼 설치 및 기본설정]()
+[1. 테라폼 설치 및 기본설정]()
 [2. Resource 와 Data]()
 [3. Module]()
 [4. variable & local & output]()
@@ -24,8 +25,28 @@
 
 ## Packer
 
-[1. pakcer 설치]()
+[1. 패커 설치]()
+[2. 패커 기초 문법]()
+[3. 빌더(Builder)]()
+[4. 선택적빌드 (only & except)]()
+[5. 프로비저너(Provisioner)]()
+[6. 데이터 소스 활용 (Data-source)]()
+[7. 후처리기(Post-processor)]()
+[8. 디버깅 하는 방법 (Debugging)]()
+[9. 패커 CLI 사용방법]()
+[10. AWS VPC에 OpenVPN과 Grafana 구성하기]()
 
 ## Ansible
 
 [1. ansible 설치]()
+[2. Inventory]()
+[3. Ad-hoc Command]()
+[4. Playbook]()
+[5. Module]()
+[6. Handler]()
+[7. Variables]()
+[8. Loop]()
+[9. Conditional]()
+[10. Facts]()
+[11. AWS Metadata Facts]()
+[12. AWS VPC에 OpenVPN과 Grafana구성]()

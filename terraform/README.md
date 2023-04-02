@@ -1,5 +1,5 @@
-- [1. 테라폼 설치 및 기본설정]()
-- [2. Resource 와 Data]()
+- [1. 테라폼 설치 및 기본설정](https://github.com/ithingv34/iac_terraform_ansible_packer/blob/main/terraform/docs/t-1.md)
+- [2. Resource 와 Data](https://github.com/ithingv34/iac_terraform_ansible_packer/blob/main/terraform/docs/t-2.md)
 - [3. Module]()
 - [4. variable & local & output]()
 - [5. count for_each]()
